@@ -54,6 +54,3 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 # News 
 [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/sktheboss) 
-* If you have any problems regarding the script then write it in this groupchat:
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/GitHubScriptsHelp)
